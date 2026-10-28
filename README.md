@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Connected Cars is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://connectedcars.io/
+Connected Cars provides a connected car platform that delivers real-time vehicle data and digital solutions to original equipment manufacturers (OEMs), importers, and dealers. The platform includes products such as ConnectedWorkshop, CC-Link retrofit hardware, and CC-DataStream analytics to enable predictive maintenance, lead generation, and customer engagement. It aims to improve profitability, operational efficiency, and customer loyalty across automotive operations.
+
+**Areas:** Connected Car Platform · Real-time Vehicle Data · OEM APIs · Dealers · Importers · Automotive Data · Predictive Analytics · Workshop Solutions
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://connectedcars.io/)
+- [Documentation](https://docs.connectedcars.io/)
+- [Pricing](https://connectedcars.io/pricing/)
+- [Support](https://help.connectedcars.io/hc/en-us)
+- [Blog](https://connectedcars.io/blog/)
+- [GitHub](https://github.com/connectedcars)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/connectedcars-io/](https://apis.io/providers/connectedcars-io/).
